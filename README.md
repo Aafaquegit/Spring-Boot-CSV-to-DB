@@ -4,4 +4,4 @@ The Spring Batch Project is a robust Spring Boot application designed for effici
 Leveraging the Spring Batch framework, this project provides a structured and extensible solution for handling large volumes of data processing tasks, 
 making it particularly suitable for ETL (Extract, Transform, Load) operations.
 
-This project is made to display the that CSV files can be uploaded from to a databse.
+This project is made to display that data from a CSV file can be uploaded to a database in the required format.
